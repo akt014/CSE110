@@ -37,5 +37,5 @@ ___
 
 ### Task Lisk
 To Do:
-[] CSE110 Lab 1
-[] CSE110 Lab 2
+-[x] CSE110 Lab 1
+-[] CSE110 Lab 2
