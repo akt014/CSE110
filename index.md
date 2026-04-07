@@ -17,7 +17,7 @@ If I were to rank them it would be:
 1. C++
 2. Python
 3. JavaScript
-____
+
 
 
 ## Picture
@@ -26,7 +26,7 @@ ____
 ____
 
 ## Code Example
-Inline code: '''print("Hello, wolrd!")'''
+Inline code: 'print("Hello, wolrd!")'
 
 ____
 
@@ -37,5 +37,5 @@ ___
 
 ### Task Lisk
 To Do:
--[x] CSE110 Lab 1
--[] CSE110 Lab 2
+- [x] CSE110 Lab 1
+- [ ] CSE110 Lab 2
