@@ -21,7 +21,7 @@ ____
 
 
 ## Picture
-[View Image](image\profile.JPG)
+[View Image](https://github.com/akt014/CSE110/blob/main/image/profile.JPG)
 
 ____
 
