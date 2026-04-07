@@ -21,7 +21,7 @@ ____
 
 
 ## Picture
-[View Image](C:\Users\Amberly\.vscode\CSE110\image\profile.JPG)
+[View Image](image\profile.JPG)
 
 ____
 
