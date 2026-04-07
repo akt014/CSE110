@@ -26,7 +26,10 @@ If I were to rank them it would be:
 ____
 
 ## Code Example
-Inline code: 'print("Hello, wolrd!")'
+Inline code: 
+```
+print("Hello, world!")
+```
 
 ____
 
